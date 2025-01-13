@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selmabal
-- 👀 I’m interested in baking
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Github
 - 📫 How to reach me Selmabaldeh3@gmail.com
 - 😄 Pronouns: she/her
