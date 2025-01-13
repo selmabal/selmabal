@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @selmabal
+- 👋 Hi, I’m @selma baldeh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Github
 - 📫 How to reach me Selmabaldeh3@gmail.com
